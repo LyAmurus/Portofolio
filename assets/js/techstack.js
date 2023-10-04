@@ -15,8 +15,8 @@ const techStack = [
     langDesc: "<li>Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML</li>",
   },
   {
-    langImage: "assets/images/techstack-page/javascript.png",
-    langName: "JavaScript",
+    langImage: "assets/images/techstack-page/figma.png",
+    langName: "Figma",
     langDesc: "<li>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS</li>",
   },
   {
@@ -80,5 +80,4 @@ const displayTechStacksCards = () => {
       `}).join('');
   techStackCards.innerHTML = entireCardTemplate;
 };
-// displayTechStacksCards(techStack)
 document.addEventListener("DOMContentLoaded", displayTechStacksCards);
