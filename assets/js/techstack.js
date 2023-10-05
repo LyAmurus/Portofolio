@@ -20,18 +20,18 @@ const techStack = [
     langDesc: "<li>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS</li>",
   },
   {
-    langImage: "assets/images/techstack-page/node.png",
-    langName: "Node",
+    langImage: "assets/images/techstack-page/photoshop.png",
+    langName: "Adobe Photoshop",
     langDesc: "<li>Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser</li>",
   },
   {
-    langImage: "assets/images/techstack-page/python.png",
-    langName: "Python",
+    langImage: "assets/images/techstack-page/Xd.png",
+    langName: "Adobe XD",
     langDesc: "<li>Python is an interpreted high-level general-purpose programming language</li>",
   },
   {
-    langImage: "assets/images/techstack-page/cpp.png",
-    langName: "C++",
+    langImage: "assets/images/techstack-page/trello.png",
+    langName: "Trello",
     langDesc: "<li>C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes</li>",
   },
   {
