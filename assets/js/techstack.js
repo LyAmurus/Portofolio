@@ -12,7 +12,7 @@ const techStack = [
   {
     langImage: "assets/images/techstack-page/css.png",
     langName: "Cascading Style Sheets",
-    langDesc: "<li>Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML</li>",
+    langDesc: "<li>Sedikit memahami penggunaan css dasar</li>",
   },
   {
     langImage: "assets/images/techstack-page/figma.png",
@@ -34,26 +34,7 @@ const techStack = [
     langName: "Trello",
     langDesc: "<li>C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes</li>",
   },
-  {
-    langImage: "assets/images/techstack-page/git.png",
-    langName: "Git",
-    langDesc: "<li>Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</li>",
-  },
-  {
-    langImage: "assets/images/techstack-page/bootstrap.png",
-    langName: "Bootstrap",
-    langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
-  },
-  {
-    langImage: "assets/images/techstack-page/react.png",
-    langName: "React",
-    langDesc: "<li>React is a free and open-source front-end JavaScript library for building user interfaces based on UI components</li>",
-  },
-  {
-    langImage:"assets/images/techstack-page/c.png",
-    langName:"C",
-    langDesc:"<li>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
-  },
+
 ];
 
 const displayTechStacksCards = () => {
