@@ -7,32 +7,32 @@ const techStack = [
   {
     langImage: "assets/images/techstack-page/html.png",
     langName: "HyperText Markup Language",
-    langDesc: "<li>The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser</li>",
+    langDesc: "<li>Memahami struktur dasar HTML, termasuk elemen, tag, dan atribut, serta cara mereka berinteraksi untuk membentuk halaman web.</li> <li>Pemahaman tentang elemen-elemen semantik baru HTML5</li><li>Mampu membuat list (unordered atau ordered list) serta tabel (table), termasuk penggunaan atribut-atribut yang relevan untuk menata informasi secara terstruktur.</li>",
   },
   {
     langImage: "assets/images/techstack-page/css.png",
     langName: "Cascading Style Sheets",
-    langDesc: "<li>Sedikit memahami penggunaan css dasar</li>",
+    langDesc: "<li>Memahami berbagai jenis selektor CSS seperti selektor elemen, kelas, ID, atribut, pseudo-class, dan pseudo-element serta cara mereka mempengaruhi elemen HTML.</li><li>Mengenal beragam properti CSS seperti properti warna, ukuran font, margin, padding, background, border, dan lainnya serta cara menggunakannya untuk mengubah tampilan elemen HTML.</li><li>Menggunakan media queries untuk membuat tampilan responsif yang beradaptasi dengan berbagai ukuran layar, seperti ponsel, tablet, dan desktop.</li>",
   },
   {
     langImage: "assets/images/techstack-page/figma.png",
     langName: "Figma",
-    langDesc: "<li>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS</li>",
+    langDesc: "<li>Mampu merancang antarmuka pengguna yang efektif dan menarik, mempertimbangkan pengalaman pengguna (user experience) dan desain visual (user interface).</li><li>Memahami penggunaan berbagai tools dalam Figma seperti shapes, pen tool, tekstur, pembuatan mockup, dan pengaturan grid untuk membuat desain dengan lebih detail.</li><li>Kemampuan untuk membuat prototype interaktif yang memungkinkan pengguna untuk menjelajahi antarmuka pengguna yang dirancang, menampilkan interaksi dan transisi antarhalaman.</li><li>Memahami cara bekerja secara kolaboratif dalam Figma, termasuk kemampuan untuk berbagi desain dengan tim, memberikan komentar, dan menyinkronkan perubahan.</li>",
   },
   {
     langImage: "assets/images/techstack-page/photoshop.png",
     langName: "Adobe Photoshop",
-    langDesc: "<li>Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser</li>",
+    langDesc: "<li>Mengenal antarmuka Photoshop termasuk tools, panel, dan bagaimana cara navigasi di dalamnya.</li><li>Mengganti ukuran, memotong, dan memutar gambar dengan tepat menggunakan tools seperti crop tool, transform tool, dan resize.</li><li>Memahami konsep layers dan kemampuan untuk membuat, mengubah, dan mengatur layers untuk mengedit gambar secara terpisah.</li>",
   },
   {
     langImage: "assets/images/techstack-page/Xd.png",
     langName: "Adobe XD",
-    langDesc: "<li>Python is an interpreted high-level general-purpose programming language</li>",
+    langDesc: "<li>Mengenal antarmuka Adobe XD termasuk tools, panel, artboard, dan navigasi di dalamnya.</li><li>Mampu membuat dan mengatur artboard untuk berbagai perangkat seperti desktop, tablet, dan ponsel untuk merancang pengalaman pengguna.</li>Membuat elemen desain dasar seperti tombol, ikon, field input, dan elemen UI lainnya menggunakan shapes, pen tool, dan tekstur.</li><li>Menggunakan tools seperti shape tools, pen tool, text tool, dan line tool untuk membuat elemen-elemen desain yang diinginkan.</li>",
   },
   {
     langImage: "assets/images/techstack-page/trello.png",
     langName: "Trello",
-    langDesc: "<li>C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes</li>",
+    langDesc: "<li>Membuat papan (board) baru yang sesuai dengan kebutuhan proyek atau tim.</li> <li>Mampu membuat, mengubah, dan mengelola daftar (lists) di dalam papan untuk mengatur tugas-tugas.</li><li>pembuatan, pengeditan, dan manajemen kartu (cards) untuk merepresentasikan tugas, termasuk menambahkan keterangan, lampiran, checklist, dan label</li>",
   },
 
 ];
