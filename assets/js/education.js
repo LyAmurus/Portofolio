@@ -5,9 +5,9 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    title: "User Experience (UX)",
+    cardImage: "assets/images/education-page/Coursera.jpg",
+    moocLink: "https://coursera.org/share/f168e5f59bd1dc164605f0e6330c516f",
   },
   {
     title: "Cryptography",
@@ -15,9 +15,9 @@ const moocscards = [
     moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    title: "Designing a Low Fidelity Prototype in Figma",
+    cardImage: "assets/images/education-page/courseranp.png",
+    moocLink: "https://www.coursera.org/account/accomplishments/verify/DML84J6CL8TX",
   },
   {
     title: "Introduction to HTML 5",
@@ -45,10 +45,9 @@ const moocscards = [
     moocLink: "https://www.edx.org/learn/reactjs",
   },
   {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+    title: "Penerapan SQL dan pengenalan analisis data dengan Python",
+    cardImage: "assets/images/education-page/untirta.png",
+    moocLink:  "https://drive.google.com/file/d/1xoVBceorvbg2opl8AIlTqoGguFjY0KK0/view",
   },
   {
     title: "NodeJS, Express and MongoDB",
