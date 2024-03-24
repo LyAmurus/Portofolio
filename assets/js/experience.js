@@ -20,10 +20,10 @@ const exp = [
   },
   {
     title: "Student Hacktiv8 (MSIB)",
-    cardImage: "assets/images/experience-page/Hack.jpeg",
+    cardImage: "assets/images/experience-page/Hacktiv8.jpg",
     place: "Hacktivate Teknologi Indonesia",
     time: "(aug, 14 - Dec, 31)",
-    desp: "<li>Conducted several planned projects, assigments, challenges. The final project was a car wash booking application, school web site, and health application.</li>",
+    desp: "<li>Conducted several planned projects, assigments, challenges. The final project was a car wash booking application, school web site, and health application.</li> <li>The final project created an application with a health theme, and several projects for car wash design applications and school web design.</li> <li>Working on gradual challenges and assigments according to procedures</li> <li>Trying to implement design sprint in a project</li>",
   },
 ];
 

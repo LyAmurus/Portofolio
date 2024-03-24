@@ -6,23 +6,23 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "User Experience (UX)",
-    cardImage: "assets/images/education-page/Coursera.jpg",
+    cardImage: "assets/images/education-page/coursera.png",
     moocLink: "https://coursera.org/share/f168e5f59bd1dc164605f0e6330c516f",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    title: "Network Defense",
+    cardImage: "assets/images/education-page/ciscoN.png",
+    moocLink: "https://www.credly.com/badges/6df3d5bb-1089-49a4-8aec-90e667cc976a/public_url",
   },
   {
     title: "Designing a Low Fidelity Prototype in Figma",
-    cardImage: "assets/images/education-page/courseranp.png",
+    cardImage: "assets/images/education-page/coursera.png",
     moocLink: "https://www.coursera.org/account/accomplishments/verify/DML84J6CL8TX",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Cyber Threat Management",
+    cardImage: "assets/images/education-page/ciscoN.png",
+    moocLink: "https://www.credly.com/badges/f99e0317-d301-49ce-bf8f-f83bbafc1875/public_url",
   },
   {
     title: "Introduction to CSS 3",
@@ -50,9 +50,9 @@ const moocscards = [
     moocLink:  "https://drive.google.com/file/d/1xoVBceorvbg2opl8AIlTqoGguFjY0KK0/view",
   },
   {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+    title: "Endpoint Security",
+    cardImage: "assets/images/education-page/ciscoN.png",
+    moocLink: "https://www.credly.com/badges/1c9fcd8d-ec3d-4c78-afc5-06496442a69b/public_url",
   },
   {
     title: "XML-AJAX",
